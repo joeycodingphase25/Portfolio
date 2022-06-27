@@ -1,3 +1,5 @@
+# Canvas Boiler Plate and Original game design credit - christopher4lis
+
 Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.
 
 ## Getting Started
